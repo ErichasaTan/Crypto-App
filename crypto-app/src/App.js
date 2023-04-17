@@ -20,8 +20,9 @@ useEffect(() => {
 }, []);
 
 return (
+  
 	<div className="App">
-	<h1>All Cryptocurrencies</h1>
+    <h1>Crypto-Charts</h1> 
 	<input
 		type="text"
 		placeholder="Search..."
